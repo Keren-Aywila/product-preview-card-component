@@ -20,7 +20,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here]
+- Solution URL: [https://github.com/evereverk/product-preview-card-component.git]
 - Live Site URL: [Add live site URL here]
 
 ### Built with
