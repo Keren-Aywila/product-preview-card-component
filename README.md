@@ -21,7 +21,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [https://github.com/evereverk/product-preview-card-component.git]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://evereverk.github.io/product-preview-card-component/]
 
 ### Built with
 
