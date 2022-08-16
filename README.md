@@ -16,7 +16,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+ ![_C__Users_HP%20PC_Documents_profile-card-component-main_index html (1)](https://user-images.githubusercontent.com/109693496/184925846-88597168-a075-416b-b227-337d5bbb9ccf.png)
+
+
 
 ### Links
 
