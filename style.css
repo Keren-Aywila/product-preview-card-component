@@ -69,3 +69,18 @@ hr{
 .attribution a{ 
   color: hsl(228, 45%, 44%);
   }
+/*screen device of 375px*/
+  @media screen and (max-width: 375px){
+body{
+  background-position: right 50vw bottom 45vh, left 40vw top 50vh;
+    text-align: center;
+    min-height: 100vh;
+}
+.container{
+  max-width: 85%;
+}
+main img{
+  max-width: 100%;
+  border-radius: 20px 20px 0 0;
+}
+  }
