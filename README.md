@@ -23,7 +23,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [https://github.com/Keren-Aywila/product-preview-card-component.git]
-- Live Site URL: [https://evereverk.github.io/product-preview-card-component/]
+- Live Site URL: [https://keren-aywila.github.io/product-preview-card-component/]
 
 ### Built with
 
