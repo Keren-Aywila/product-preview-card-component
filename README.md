@@ -31,8 +31,3 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
-## Author
-
-- Frontend Mentor - [evereverk](https://www.frontendmentor.io/profile/evereverk)
-- Instagram - [@everever.k](https://www.instagram.com/everever.k)
